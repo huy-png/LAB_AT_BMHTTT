@@ -1,0 +1,11 @@
+trương gia huy
+11500800019
+11_THMT
+## Mô tả bài lab
+
+Lab 3 tập trung vào việc nhận diện và ứng phó với các mối đe dọa an toàn thông tin trên máy ảo Windows 11. 
+Nội dung thực hành gồm kiểm tra Microsoft Defender bằng EICAR, phân tích sự kiện đăng nhập 4624/4625/4648, 
+kiểm tra nguy cơ keylogging, tạo và phát hiện persistence bằng Registry Run và Scheduled Task, theo dõi listener 
+cục bộ bằng Sysmon, Autoruns và Process Explorer, phân tích HTTP/HTTPS bằng Wireshark, phân tích DoS/DDoS và mail
+bombing từ dữ liệu mẫu, đồng thời nhận diện phishing và social engineering. Sau khi hoàn thành, tiến hành cleanup, 
+lưu Evidence và kiểm tra tính toàn vẹn bằng SHA-256.
